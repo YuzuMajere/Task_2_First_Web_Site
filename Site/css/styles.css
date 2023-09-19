@@ -1,0 +1,52 @@
+body {
+    /* Цвет фона всех страниц */
+    background-color:rgb(219, 197, 219) 
+}
+
+header {
+    /* Цвеь шапки */
+    margin-top: 8px;
+    margin-bottom: 16px;
+    font-size: 36px;
+    color: rgb(0, 255, 85);
+}
+
+h1 {
+    /* Цвет загаловка 1го уровня */
+    margin-top: 8px;
+    margin-bottom: 35px;
+    font-size: 28px;
+    color: rgb(110, 82, 44);
+}
+
+h2 {
+    /* Цвет загаловка 2го уровня */
+    margin-top: 8px;
+    margin-bottom: 25px;
+    font-size: 24px;
+    color: rgb(211, 37, 118);
+}
+
+p {
+    /* Цвет абзацев */
+    margin-top: 8px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: rgb(72, 25, 158);
+}
+
+address {
+    /* Цвет информации внутри тега address */
+    margin-top: 12px;
+    margin-bottom: 16px;
+    font-size: 24px;
+    color: rgb(10, 4, 95);
+}
+
+footer {
+    /* Цвет "подвала" */
+    margin-top: 16px;
+    margin-bottom: 16px;
+    font-size: 24px;
+    color: rgb(70, 190, 66);
+}
